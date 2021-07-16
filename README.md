@@ -1,2 +1,2 @@
-# NTHU Digital Image Processing homeworks which are implemented with python
+# NTHU Digital Image Processing Homeworks
 read the readme and report in each folder for more detial
